@@ -1,0 +1,16 @@
+{
+  "name": "99bottles",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bottles.jest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  }
+}

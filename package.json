@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "bottles.jest.js",
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=14.0.0"
+  },
   "scripts": {
     "test": "jest"
   },

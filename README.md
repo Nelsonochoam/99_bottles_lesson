@@ -1,7 +1,16 @@
+
+#### Setup
+
+* npm install
+
+#### Tests
+
+* npm run test
+
+
 # Instructions
 
-You have 30 minutes to work on this excersice the goal is to complete the
-tasks outlines by the tests by doing TDD. 
+You have 30 minutes to work on this exercise the goal is to make the
+tests pass.
 
-After that we will have a dicussion about the code we each wrote and share
-some lessons from the book
+
